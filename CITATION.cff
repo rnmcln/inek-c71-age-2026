@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated article."
+title: "Age-stratified hospital care, comorbidity, and discharge outcomes in adults with malignant glioma in Germany: a nationwide analysis of administrative data"
+authors:
+  - family-names: "Lawson McLean"
+    given-names: "Aaron"
+    affiliation: "Department of Neurosurgery, Jena University Hospital, Friedrich Schiller University Jena, Jena, Germany"
+  - family-names: "Stein"
+    given-names: "Marco"
+    affiliation: "Department of Neurosurgery, University Hospital Giessen, Justus-Liebig-University Giessen, Giessen, Germany"
+  - family-names: "Jungk"
+    given-names: "Christine"
+    affiliation: "Department of Neurosurgery, Heidelberg University Hospital, Heidelberg, Germany"
+  - family-names: "von Saß"
+    given-names: "Christiane"
+    affiliation: "Centre for Palliative and Neuro-Palliative Care, Faculty of Health Sciences Brandenburg, Brandenburg Medical School Theodor Fontane, Rüdersdorf bei Berlin, Germany"
+  - family-names: "Krex"
+    given-names: "Dietmar"
+    affiliation: "Department of Neurosurgery, University Hospital Carl Gustav Carus, Dresden University of Technology, Dresden, Germany"
+  - family-names: "Senft"
+    given-names: "Christian"
+    affiliation: "Department of Neurosurgery, Jena University Hospital, Friedrich Schiller University Jena, Jena, Germany"
+  - family-names: "Kamp"
+    given-names: "Marcel A."
+    affiliation: "Centre for Palliative and Neuro-Palliative Care, Faculty of Health Sciences Brandenburg, Brandenburg Medical School Theodor Fontane, Rüdersdorf bei Berlin, Germany"
+year: 2026
+license: MIT
+repository-code: "https://github.com/rnmcln/inek-c71-age-2026"

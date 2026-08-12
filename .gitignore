@@ -1,0 +1,14 @@
+# Do not commit input or derived data (regenerate locally from your own export)
+data/*.xlsx
+data/*.xls
+derived_data/
+figures/
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
